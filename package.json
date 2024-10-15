@@ -2,7 +2,7 @@
   "name": "express-mongodb-setup",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "express_server.js",
   "scripts": {
     "server": "node express_server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
